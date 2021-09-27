@@ -1,0 +1,10 @@
+.card img{
+    height: 250px;
+    border-radius: 10px;
+}
+.fa-facebook{
+    color: rgb(14, 176, 240);
+}
+.fa-twitter-square{
+    color: rgb(29 155 240);
+}
