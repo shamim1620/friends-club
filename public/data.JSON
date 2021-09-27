@@ -5,7 +5,7 @@
         "age": 23,
         "occupation": "Student",
         "homeDistrict": "Gaibandha",
-        "donation": 10,
+        "donation": 10000,
         "img": "https://scontent.fdac14-1.fna.fbcdn.net/v/t1.6435-9/236528880_4546798795384662_1370862854219109518_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeEs6G66enQZJWN1WDbsvL64Er2378EJlTESvbfvwQmVMTurNKEXCkYDq1jhJ7lfQ8ybq0PmkmmU09yJoFuVys4e&_nc_ohc=vaDfdP4NoNwAX8E2JXG&_nc_ht=scontent.fdac14-1.fna&oh=b34830b86cc985694f3054e0c77d175f&oe=61771A83"
     },
     {
@@ -14,7 +14,7 @@
         "age": 24,
         "occupation": "Student",
         "homeDistrict": "Gaibandha",
-        "donation": 20,
+        "donation": 2000,
         "img": "https://scontent.fdac14-1.fna.fbcdn.net/v/t1.6435-9/36660707_899511480231558_1731176582577389568_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeFPCEZ39TPgwu_RRQ9QRdiIKffkAHaFjSsp9-QAdoWNK7vYx5BlBvKM4WhQFFxSHLkwTDBm9R2siIHGeXeQ1fhD&_nc_ohc=scihmYayAxYAX86EHxO&tn=GqASK6-xv1aU3Dp4&_nc_ht=scontent.fdac14-1.fna&oh=103348557e8bb6c906070fc84c9e664b&oe=6176B400"
     },
     {
@@ -23,7 +23,7 @@
         "age": 22,
         "occupation": "Student",
         "homeDistrict": "Gaibandha",
-        "donation": 30,
+        "donation": 3000,
         "img": "https://scontent.fdac14-1.fna.fbcdn.net/v/t1.18169-9/21032431_1954811088077146_4192612319701288112_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=174925&_nc_eui2=AeEVrediQvqsA5P9CHfMqHARjxSrHURr-BOPFKsdRGv4E_Km37nESzqQBeBIwwYUIiRV3rXhtr9LqZpJBy1fKQ_t&_nc_ohc=Fpubax4OZ-oAX8cSroq&_nc_ht=scontent.fdac14-1.fna&oh=dac0007125bb1f509018561f9915303b&oe=617739DE"
     },
     {
@@ -32,7 +32,7 @@
         "age": 23,
         "occupation": "Student",
         "homeDistrict": "Manikgong",
-        "donation": 50,
+        "donation": 5000,
         "img": "https://scontent.fdac14-1.fna.fbcdn.net/v/t1.6435-9/46999052_1864767800316051_940783174252756992_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeEIPmUk6KmUV0N3tpb3OV19Rvc2p4oZsLtG9zanihmwu2FnlR71tnbKNcEN1dQJprSLMV6m6OBZlHFPkMB_u9ZG&_nc_ohc=egbpnebKqE4AX_xniZn&tn=GqASK6-xv1aU3Dp4&_nc_ht=scontent.fdac14-1.fna&oh=4813f5d1ee101685999187fc1270aabf&oe=6178574A"
     },
     {
@@ -41,7 +41,7 @@
         "age": 24,
         "occupation": "Software Engineer",
         "homeDistrict": "Cumilla",
-        "donation": 100,
+        "donation": 10000,
         "img": "https://scontent.fdac14-1.fna.fbcdn.net/v/t1.6435-9/44977633_2692534924305066_4867626169022808064_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeGPznqs2KY3ALhaFYU6bOSLhOPaqPVunimE49qo9W6eKW39T4be8G7RLxtSIcRi-TYZr4MuMQCdK4cbI7Rez3kv&_nc_ohc=QsrND2jgpIgAX98Hh8c&_nc_ht=scontent.fdac14-1.fna&oh=f0ed4a6ca9de6013b42dbbb0bb92d499&oe=6177E30A"
     },
     {
@@ -50,7 +50,7 @@
         "age": 25,
         "occupation": "Business",
         "homeDistrict": "Noyakhali",
-        "donation": 100,
+        "donation": 10000,
         "img": "https://scontent.fdac14-1.fna.fbcdn.net/v/t1.6435-9/130703542_3564117540343252_4364489765110038715_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeHjaWnDZ8azpbq4sjUiSkDm08HJOiVEOOrTwck6JUQ46kI9J2QHNbpT5JJy16nto5iRd34EyEHK7_nsoAAipuMs&_nc_ohc=aGo9trgt45IAX-YVjrs&_nc_ht=scontent.fdac14-1.fna&oh=40adfe96c9e8aa9424f0ff81d6d39fa9&oe=61776534"
     },
     {
@@ -59,7 +59,7 @@
         "age": 24,
         "occupation": "Software Engineer",
         "homeDistrict": "Bramonbariya",
-        "donation": 200,
+        "donation": 20000,
         "img": "https://scontent.fdac14-1.fna.fbcdn.net/v/t1.6435-9/38943670_1674138872713895_7270355677564895232_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeHmKP6P11E48f1JMF4sxhVypxH0EjMKn2inEfQSMwqfaA5q7II25KqHIaGq_7LEp1_NrazRywM12cpBwAme_kEV&_nc_ohc=xEnzIyl35ycAX8GE5KR&_nc_ht=scontent.fdac14-1.fna&oh=fa08971ba0891140a357b2e9839e8520&oe=6176EDE0"
     },
     {
@@ -68,7 +68,7 @@
         "age": 23,
         "occupation": "Graphic Desiner",
         "homeDistrict": "Tangial",
-        "donation": 40,
+        "donation": 4000,
         "img": "https://scontent.fdac14-1.fna.fbcdn.net/v/t1.6435-9/234807693_1711251059064892_3635748504607300005_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeHhdPZ25-QltMr8Y46zDv0jcbELWaFx-PVxsQtZoXH49aea5I_lihotiSsQ5ujmxLBLOc6ijMY3bzSUbSd9stnq&_nc_ohc=JAxImPpyKq8AX-YM8gs&_nc_ht=scontent.fdac14-1.fna&oh=c16729b035aa16c4dd5193782348e9b3&oe=6175BB24"
     },
     {
@@ -77,7 +77,7 @@
         "age": 22,
         "occupation": "Unemployed",
         "homeDistrict": "Nator",
-        "donation": 50,
+        "donation": 5000,
         "img": "https://scontent.fdac14-1.fna.fbcdn.net/v/t1.6435-9/209217125_1431572190532862_5254370105483607258_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeHsnv66BluOsrYOS0DPR0h0Kz7iwDatQIErPuLANq1AgQ214Ef1iMKx--sU04WzebeNxEzdWIvK-6Ujh6hWjZTD&_nc_ohc=ftJDVbA5Z0oAX82zXaK&_nc_ht=scontent.fdac14-1.fna&oh=3653ff5f2bd5bb8856d1522091f47ed1&oe=6176E184"
     },
     {
@@ -86,7 +86,7 @@
         "age": 23,
         "occupation": "Student",
         "homeDistrict": "Gaibandha",
-        "donation": 200,
+        "donation": 20000,
         "img": "https://scontent.fdac14-1.fna.fbcdn.net/v/t1.18169-9/11205557_1481152395544187_273818701777955371_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=cdbe9c&_nc_eui2=AeG6-3-Z0br2zPmkBj6pObzdOsYwfhIYM9I6xjB-Ehgz0qa99iSteIYngbOkpznEdd1IvMF1tiS7YCA3q7rZlpYk&_nc_ohc=cZ1Ary5uZqsAX8V9PpO&_nc_ht=scontent.fdac14-1.fna&oh=e202c1260fa6f25aafcb1a1d817d832e&oe=617571E4"
     },
     {
@@ -95,7 +95,7 @@
         "age": 24,
         "occupation": "Student",
         "homeDistrict": "Gaibandha",
-        "donation": 100,
+        "donation": 10000,
         "img": "https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/242719956_3058651311086730_5118100136980998597_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeE-qGZ3EHNi_m9qjsXebvXHcLbp0eHeI2VwtunR4d4jZXAuUSfw8wwamxaCsXfDubr8eD4FtIsTyBoPO_83uLmw&_nc_ohc=wm7BZGUaE7cAX-9Ad_E&_nc_ht=scontent.fdac14-1.fna&oh=12c434efe9c98ccef0530f14977b2b57&oe=61558C69"
     },
     {
@@ -104,7 +104,7 @@
         "age": 23,
         "occupation": "Doctor",
         "homeDistrict": "Gaibandha",
-        "donation": 200,
+        "donation": 20000,
         "img": "https://scontent.fdac14-1.fna.fbcdn.net/v/t1.6435-9/118516928_2033661290104651_8857714010055460129_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeGlfv5J0IrgE3NXSsKAHurHMn210Os-DdkyfbXQ6z4N2YRE8HC-VKL5Ur1-3Uw5nrtlgt2F2Oc0t-vxBOw48Frn&_nc_ohc=9d9PeM4wmYIAX_eNx8v&_nc_ht=scontent.fdac14-1.fna&oh=54f4270e8bcc17b828d09b3c8ccd3c3f&oe=6176DA65"
     },
     {
@@ -113,7 +113,7 @@
         "age": 24,
         "occupation": "Banker",
         "homeDistrict": "Gaibandha",
-        "donation": 30,
+        "donation": 3000,
         "img": "https://scontent.fdac14-1.fna.fbcdn.net/v/t31.18172-8/25310955_876698492492675_1176481103320245576_o.jpg?_nc_cat=107&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeHgSX1_h_9_Nm5JkT4BeF_RLcH0J26tvJ4twfQnbq28niP9oksX3qKkbwECm7eOx9XE7KIRIZ3C8sthNluHHrsJ&_nc_ohc=PgKCRd_f5cgAX8nsqWf&_nc_ht=scontent.fdac14-1.fna&oh=c2c765c5b3ca1006cb743a59d0bc9136&oe=6176C3C0"
     },
     {
@@ -122,7 +122,7 @@
         "age": 24,
         "occupation": "Student",
         "homeDistrict": "Gaibandha",
-        "donation": 20,
+        "donation": 2000,
         "img": "https://scontent.fdac14-1.fna.fbcdn.net/v/t1.6435-9/176037990_1168026177026288_1111909235621785210_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFzYa44L9BJRpPoqOc83Ia0Sdk3av9dw3RJ2Tdq_13DdPEoYHGB7XudSUwI90AJ-Id89DpI1MiN_D5A8Tmx8x2R&_nc_ohc=nPKPX0vd4McAX-uaVVN&_nc_oc=AQmwKgA-mcX1gsZTp6dwfY-H0WUR7G9YpOjaxLfamGbGU7a_1JyrTMADXTfLlLb4Aik&_nc_ht=scontent.fdac14-1.fna&oh=b3c23ac54b443ebde55ba3da35675f1b&oe=61776D2B"
     },
     {
@@ -131,7 +131,7 @@
         "age": 24,
         "occupation": "Database Engineer",
         "homeDistrict": "Lakshmipur",
-        "donation": 60,
+        "donation": 6000,
         "img": "https://scontent.fdac14-1.fna.fbcdn.net/v/t31.18172-8/27628583_798892060302464_6030912674829773319_o.jpg?_nc_cat=105&ccb=1-5&_nc_sid=174925&_nc_eui2=AeFSty3nLPPuqyeVnjq9ZsqVAvw_8P_vHiIC_D_w_-8eIqZDEnzSpwCnjWp6q8Ls2sT2AOFi6r57ADzSZlJJY_nm&_nc_ohc=_QRb2KwE0bgAX8gx10K&_nc_ht=scontent.fdac14-1.fna&oh=af1f76a0e1a2336f509cb6a0a3a8d089&oe=61773C11"
     }
 ]
