@@ -3,4 +3,8 @@
     grid-template-columns: 4fr 1fr;
     margin-top: 10px;
     
+    
+}
+body{
+    background-color: whitesmoke;
 }

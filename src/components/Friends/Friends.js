@@ -1,14 +1,24 @@
 import React, { useEffect, useState } from 'react';
+import Cart from '../Cart/Cart';
 import Profile from '../Profile/Profile';
 import './Friends.css';
 
 const Friends = () => {
     const [friends, setFriend] = useState([]);
+    const [cart, setCart] = useState([]);
+
+
     useEffect(() => {
         fetch('./data.JSON')
             .then(res => res.json())
             .then(data => setFriend(data))
     }, [])
+
+    const addToCart = friend => {
+        const newCart = [...cart, friend];
+        setCart(newCart);
+    };
+
     return (
         <div className="friend-container container">
             <div className="friend-profile row row-cols-md-3 g-4">
@@ -16,13 +26,15 @@ const Friends = () => {
                     friends.map(friend => <Profile
                         friend={friend}
                         key={friend.id}
+                        addToCart={addToCart}
                     ></Profile>)
                 }
 
             </div>
             <div className="donation-total">
-                <h5><i class="fas fa-user"></i>Friend doneted: <span>0</span></h5>
-                <h5>Total Donation:$ <span>0</span> </h5>
+                <Cart
+                    cart={cart}
+                ></Cart>
             </div>
         </div>
     );

@@ -2,7 +2,7 @@ import React from 'react';
 import('./Profile.css');
 
 const Profile = (props) => {
-    console.log(props.friend.occupation);
+    //console.log(props);
     const { name, age, occupation, homeDistrict, donation, img } = props.friend;
     return (
         <div >
@@ -15,7 +15,7 @@ const Profile = (props) => {
                         <p className="card-text">Age: {age}</p>
                         <p className="card-text">Occupation: {occupation}</p>
                         <p className="card-text">Home District: {homeDistrict}</p>
-                        <p className="card-text">Donate: ${donation}</p>
+                        <button className="btn-regular" onClick={() => props.addToCart(props.friend)}><i class="fas fa-hand-holding-usd"></i>Donate: ${donation}</button>
                         <h3 className="d-flex justify-content-evenly"><i className="fab fa-facebook"></i><i className="fab fa-twitter-square"></i></h3>
                     </div>
                 </div>

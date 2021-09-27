@@ -1,10 +1,25 @@
+.card{
+    background-color:rgb(238, 234, 234);
+  box-shadow: 5px 10px whitesmoke;
+}
 .card img{
     height: 250px;
+    width: 100%;
     border-radius: 10px;
+}
+.btn-regular{
+    background-color: rgb(189, 109, 95);
+    height: 30px;
+    width: 150px;
+    border-radius: 10px;
+    border: 1px solid blue;
 }
 .fa-facebook{
     color: rgb(14, 176, 240);
 }
 .fa-twitter-square{
     color: rgb(29 155 240);
+}
+.fa-hand-holding-usd{
+    color: teal;
 }

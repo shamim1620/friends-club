@@ -86,7 +86,7 @@
         "age": 23,
         "occupation": "Student",
         "homeDistrict": "Gaibandha",
-        "donation": 500,
+        "donation": 200,
         "img": "https://scontent.fdac14-1.fna.fbcdn.net/v/t1.18169-9/11205557_1481152395544187_273818701777955371_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=cdbe9c&_nc_eui2=AeG6-3-Z0br2zPmkBj6pObzdOsYwfhIYM9I6xjB-Ehgz0qa99iSteIYngbOkpznEdd1IvMF1tiS7YCA3q7rZlpYk&_nc_ohc=cZ1Ary5uZqsAX8V9PpO&_nc_ht=scontent.fdac14-1.fna&oh=e202c1260fa6f25aafcb1a1d817d832e&oe=617571E4"
     },
     {
@@ -100,7 +100,7 @@
     },
     {
         "id": 12,
-        "name": "Kausar Ahmed Shuvo",
+        "name": "Kausar Ahmed",
         "age": 23,
         "occupation": "Doctor",
         "homeDistrict": "Gaibandha",
@@ -131,7 +131,7 @@
         "age": 24,
         "occupation": "Database Engineer",
         "homeDistrict": "Lakshmipur",
-        "donation": 600,
+        "donation": 60,
         "img": "https://scontent.fdac14-1.fna.fbcdn.net/v/t31.18172-8/27628583_798892060302464_6030912674829773319_o.jpg?_nc_cat=105&ccb=1-5&_nc_sid=174925&_nc_eui2=AeFSty3nLPPuqyeVnjq9ZsqVAvw_8P_vHiIC_D_w_-8eIqZDEnzSpwCnjWp6q8Ls2sT2AOFi6r57ADzSZlJJY_nm&_nc_ohc=_QRb2KwE0bgAX8gx10K&_nc_ht=scontent.fdac14-1.fna&oh=af1f76a0e1a2336f509cb6a0a3a8d089&oe=61773C11"
     }
 ]
