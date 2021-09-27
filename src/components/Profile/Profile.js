@@ -15,7 +15,8 @@ const Profile = (props) => {
                         <p className="card-text">Age: {age}</p>
                         <p className="card-text">Occupation: {occupation}</p>
                         <p className="card-text">Home District: {homeDistrict}</p>
-                        <button className="btn-regular" onClick={() => props.addToCart(props.friend)}><i class="fas fa-hand-holding-usd"></i>Donate: ${donation}</button>
+                        <p className="card-text">Donation:$ {donation}</p>
+                        <button className="btn-regular" onClick={() => props.addToCart(props.friend)}><i class="fas fa-hand-holding-usd"></i>Donate</button>
                         <h3 className="d-flex justify-content-evenly"><i className="fab fa-facebook"></i><i className="fab fa-twitter-square"></i></h3>
                     </div>
                 </div>

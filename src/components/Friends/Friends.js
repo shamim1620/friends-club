@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import Cart from '../Cart/Cart';
+import Donated from '../Donated/Donated';
 import Profile from '../Profile/Profile';
 import './Friends.css';
 
@@ -19,6 +20,8 @@ const Friends = () => {
         setCart(newCart);
     };
 
+
+
     return (
         <div className="friend-container container">
             <div className="friend-profile row row-cols-md-3 g-4">
@@ -35,6 +38,10 @@ const Friends = () => {
                 <Cart
                     cart={cart}
                 ></Cart>
+                {
+                    cart.map(friend => <Donated friend={friend.name}></Donated>)
+                }
+
             </div>
         </div>
     );
