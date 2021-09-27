@@ -5,9 +5,9 @@ const Header = () => {
     return (
         <div>
             <div className="top-bannar">
-                <h1>Friends Donation Club</h1>
+                <h1>Friend's Donation Club</h1>
                 <p>Friendship is the best relationship in the Earth</p>
-                <h3>Annual Budge:$1000</h3>
+                <h3>Annual Budge: 10 Million</h3>
             </div>
         </div>
     );
